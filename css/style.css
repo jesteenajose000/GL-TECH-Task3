@@ -240,10 +240,6 @@
        
         top: unset;
     }
-    .form-select {
-        
-        min-width: auto;
-    }
     .chart-section {
         padding: 30px 0px;
     }
